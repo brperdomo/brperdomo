@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Bryan Perdomo
+# 👋 Hi there! I'm Bryan
 
 Welcome to my GitHub profile — where ideas turn into solutions.
 
