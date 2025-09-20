@@ -26,11 +26,6 @@ Currently building tools that simplify complex processes using:
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078d4?logo=microsoft-sharepoint)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanperdomo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanperdomo&layout=compact)
-
 ## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bryan-perdomo/)
