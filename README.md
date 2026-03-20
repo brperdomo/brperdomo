@@ -29,5 +29,4 @@ Currently building tools that simplify complex processes using:
 ## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bryan-perdomo/)
-- ✍️ [Site](https://umbrellasolutions.us) (coming soon)
-- 📫 Reach me at: bryan@umbrellasolutions.us
+- 📫 Reach me at: bperdomo@zoho.com
