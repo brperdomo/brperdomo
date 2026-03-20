@@ -13,7 +13,7 @@ Currently building tools that simplify complex processes using:
 
 ## 🔭 Projects I'm Proud Of
 
-- **⚽ MatchPro** - Web-based application for soccer tournament directors and team managers
+- **⚽ KickDeck** - Web-based application for soccer tournament directors and team managers
 - **🧾 Logistics BOL Extractor** – React/.NET app using AI for extracting shipping documents  
 - **📬 Email Validator** – Standalone script to send test emails & check bounce status  
 - **🧩 Workflow Demos** – Showcasing Integrify capabilities with dynamic task routing
