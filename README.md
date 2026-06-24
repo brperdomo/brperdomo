@@ -1,7 +1,4 @@
 # 👋 Hi there! I'm Bryan
-
-Welcome to my GitHub profile — where ideas turn into solutions.
-
 ## 🧠 About Me
 
 I'm a low-code solutions builder with a strong focus on workflow automation, document processing, and integration platforms like SharePoint and Workflow. I love turning business requirements into working prototypes (and scaling them into polished products).
